@@ -13,7 +13,6 @@ const CodeEditor = () => {
         editor.focus(); // Focus the editor
 
     }
-    // console.log(language);
 
     return (
         <Box>

@@ -18,11 +18,11 @@ const Output = ({ sourceCode, language }) => {
 
         } catch (error) {
             setLoading(false)
-            console.log(error);
+            // console.log(error);
 
         }
     }
-    console.log(output);
+    // console.log(output);
 
     return (
         <Box width={"50%"}>
